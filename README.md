@@ -1,4 +1,4 @@
-# HR-Employee-Attrition-Analysis
+# HR Employee Attrition Analysis
 End-to-end HR analytics project analyzing employee attrition using Python (data analysis) and Power BI (Interactive dashboard) to identify key drivers of employee turnover.
 ## Overview
 This project analyzes employee attrition using both Python and Power BI to identify key factors influencing employee turnover.
